@@ -67,6 +67,8 @@ public class SpringController {
 	@GetMapping("/getallemployeebystatus/{status}")
 	public List<Employee> getemployeebystatus(@PathVariable String status)
 	{
+		
+		System.out.println("My Changes");
 		List<Employee> list=springservice.getemployeebystatus(status);
 		return list;
 	}
