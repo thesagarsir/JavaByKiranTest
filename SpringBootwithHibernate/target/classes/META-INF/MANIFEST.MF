@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: SpringBootwithHibernate
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Spectator
+Built-By: thesa
 Implementation-Vendor-Id: com.javabykiran
-Build-Jdk: 1.8.0_221
+Build-Jdk: 1.8.0_261
 Implementation-URL: https://spring.io/projects/spring-boot/SpringBootw
  ithHibernate
 Created-By: Maven Integration for Eclipse
